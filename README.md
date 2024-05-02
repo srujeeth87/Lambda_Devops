@@ -14,7 +14,6 @@ AWS CLI installed and configured locally.
 
 **Setup Instructions**
 1.Clone this repository:
-
 git clone <repository_url>
 
 2. Navigate to the project directory:
